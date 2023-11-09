@@ -28,7 +28,7 @@
 
 
 ### SQL DDL Schema 
-```
+```sql
 CREATE TABLE BANK
 (
   Code INT NOT NULL,
