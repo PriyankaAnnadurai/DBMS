@@ -1,4 +1,4 @@
-# EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
+# EX 3 Data Manipulation Language (DML) Commands and built in functions in SQL
 
 ## DATE: 
 
