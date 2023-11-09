@@ -10,7 +10,7 @@
 5. End the begin section.
 
 ### Program:
-```
+```sql
 declare
 a number :=10;
 b number :=20;
